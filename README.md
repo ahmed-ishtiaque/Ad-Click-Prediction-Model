@@ -1,5 +1,6 @@
 # Ad-Click-Prediction-Model
 Ad-Click-Prediction-Model using Logistic Regression
+![DataFrame](https://user-images.githubusercontent.com/4210955/110367309-7fb26b80-8015-11eb-81c2-0dc0afb6b239.jpg)
 ![heatmap](https://user-images.githubusercontent.com/4210955/109441292-ea0a5100-7a02-11eb-85ac-ba8a5062e040.png)
 ![pairplot](https://user-images.githubusercontent.com/4210955/109441302-f1315f00-7a02-11eb-990f-98b2b43a0761.png)
 ![1](https://user-images.githubusercontent.com/4210955/109441307-f55d7c80-7a02-11eb-9e12-e453873e82aa.png)
